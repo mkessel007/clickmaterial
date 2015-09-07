@@ -1,0 +1,13 @@
+/* Do Not Use This File. Compile It Manually Using the Files and Order Below
+
+/assets/bower_components/bootstrap/dist/css/bootstrap.min.css
+/assets/bower_components/bootstrap-material-design/dist/css/roboto.min.css
+/assets/bower_components/bootstrap-material-design/dist/css/material-fullpalette.min.css
+/assets/bower_components/bootstrap-material-design/dist/css/ripples.min.css
+
+The first version of this is located in the base.css file. 
+
+Remove any styles you don't need from the base.css, since this is a HUGE library 
+where there are a lot of unused colors, components & selectors.
+
+*/
